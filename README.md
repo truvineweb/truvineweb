@@ -28,14 +28,14 @@ I live across the full incident lifecycle—from the first "hit" in the SIEM to 
 ---
 
 ### 📂 Featured Projects
-*   🛡️ **[APT & Malware Casefile](https://github.com):** End-to-end simulation of a multi-stage attack in a VMware lab.
-*   ⚖️ **[Governance & Compliance Pack](https://github.com):** Mapping technical SOC work to NIST CSF 2.0, ISO 27001, and GDPR.
-*   🔍 **[Splunk Detection Lab](https://github.com):** Custom SPL queries for hunting persistence and C2 beaconing.
-*   🎣 **[Phishing Analysis](https://github.com):** Deep-dives into email headers, malicious URLs, and sandbox analysis.
+*   🛡️ **[APT & Malware Casefile](https://github.com/truvineweb/SOC-Portfolio/tree/main/apt/malware-incident-casefile):** End-to-end simulation of a multi-stage attack in a VMware lab.
+*   ⚖️ **[Governance & Compliance Pack](https://github.com/truvineweb/SOC-Portfolio/tree/main/governance-compliance):** Mapping technical SOC work to NIST CSF 2.0, ISO 27001, and GDPR.
+*   🔍 **[Splunk Detection Lab](https://github.com/truvineweb/SOC-Portfolio/tree/main/splunk-detections):** Custom SPL queries for hunting persistence and C2 beaconing.
+*   🎣 **[Phishing Analysis](https://github.com/truvineweb/SOC-Portfolio/tree/main/phishing):** Deep-dives into email headers, malicious URLs, and sandbox analysis.
 
 ---
 
 ### 📫 Let’s Connect
 I’m always up for talking shop about detection strategy or the latest threat trends.
 
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/truvine147)
