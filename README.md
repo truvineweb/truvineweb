@@ -38,4 +38,4 @@ I live across the full incident lifecycle—from the first "hit" in the SIEM to 
 ### 📫 Let’s Connect
 I’m always up for talking shop about detection strategy or the latest threat trends.
 
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/truvine147)
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/truvine147)
