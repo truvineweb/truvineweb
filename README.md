@@ -32,6 +32,7 @@ I live across the full incident lifecycle—from the first "hit" in the SIEM to 
 *   ⚖️ **[Governance & Compliance Pack](https://github.com/truvineweb/SOC-Portfolio/tree/main/governance-compliance):** Mapping technical SOC work to NIST CSF 2.0, ISO 27001, and GDPR.
 *   🔍 **[Splunk Detection Lab](https://github.com/truvineweb/SOC-Portfolio/tree/main/splunk-detections):** Custom SPL queries for hunting persistence and C2 beaconing.
 *   🎣 **[Phishing Analysis](https://github.com/truvineweb/SOC-Portfolio/tree/main/phishing):** Deep-dives into email headers, malicious URLs, and sandbox analysis.
+*   🔍 **[ThreatHunt-Portfolio](https://github.com/truvineweb/ThreatHunt-Portfolio):** hreat Hunts projects and experience as a Security Operation Analyst during my internship at LOGs N' PACIFIC.
 
 ---
 
