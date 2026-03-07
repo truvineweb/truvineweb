@@ -27,6 +27,14 @@ This GitHub is where I document the work behind that skill set, from investigati
 
 ---
 
+## Featured Case Studies
+
+- [**See how I approached the CorpHealth Traceback Hunt**](https://github.com/truvineweb/ThreatHunt-Portfolio)
+- [**Review my Sentinel detection and investigation work**](https://github.com/truvineweb/SOC-Portfolio)
+- [**Read my incident-response-leaning Buyer Hunt scenario**](https://github.com/truvineweb/ThreatHunt-Portfolio)
+
+---
+
 ## Technical Focus
 
 - **SIEM / XDR**: Microsoft Sentinel, Splunk, Microsoft Defender XDR
