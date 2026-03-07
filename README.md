@@ -1,42 +1,70 @@
 # Hi, I’m Divine 👋
 
-I’m a **Blue Team-focused SOC Analyst and Incident Responder**. Most days, you’ll find me deep in the logs, digging into suspicious activity, and moving fast when an alert turns out to be the real deal.
+I’m a Blue Team-focused SOC Analyst who enjoys turning noisy telemetry into clear, defensible findings. My work centres on threat detection, incident investigation, log analysis, threat hunting, and practical security automation.
 
-I live across the full incident lifecycle—from the first "hit" in the SIEM to the final post-mortem. I’m at my best when things get messy; I enjoy staying calm under pressure, cutting through the noise, and adding structure to a chaotic investigation. My goal is always the same: **figure out exactly what happened, stop it, and make sure the environment is harder to hit next time.**
-
----
-
-### 🛠️ What I Do
-*   **End-to-End Investigation:** Taking an alert from initial triage through deep-dive correlation.
-*   **Log Correlation:** Connecting the dots across endpoint, network, identity, and cloud sources.
-*   **Threat Hunting:** Building hypotheses to find the "quiet" threats that automated tools might miss.
-*   **Detection Engineering:** Tuning rules to kill the noise and improve actual detection coverage.
-*   **Incident Response:** Supporting the full cycle of containment, eradication, and recovery.
-*   **Forensics & Malware:** Providing baseline analysis and building out detailed attack timelines.
-*   **Automation:** Scripting the repetitive stuff so the team can focus on the hard problems.
+This GitHub is where I document the work behind that skill set, from investigation write-ups and hunting exercises to detection content, playbooks, and analyst-focused tooling.
 
 ---
 
-### 🧰 Tech Stack
-*   **SIEM:** [Splunk](https://www.splunk.com), [Microsoft Sentinel](https://azure.microsoft.com)
-*   **EDR/XDR:** [Microsoft Defender for Endpoint](https://www.microsoft.com) (and general EDR workflows)
-*   **Cloud Security:** Azure / Microsoft Security Stack (Sentinel + Defender)
-*   **IR & Analysis:** [MITRE ATT&CK](https://attack.mitre.org) mapping, IOC handling, and case documentation.
-*   **Languages & Queries:** KQL, SPL, Python, SQL
-*   **Core Fundamentals:** Windows/Linux internals, TCP/IP, DNS, and Identity/Auth logs.
+## What I Do
+
+- **Investigate security events end to end** from alert triage through analysis, validation, and reporting
+- **Correlate telemetry across systems** including endpoint, identity, network, and cloud data
+- **Build and improve detections** using KQL, SPL, and structured detection logic
+- **Hunt for threats proactively** by testing hypotheses and analysing suspicious behaviour
+- **Support incident response workflows** including containment, evidence collection, and documentation
+- **Use scripting and automation** to remove repetitive work and speed up investigations
 
 ---
 
-### 📂 Featured Projects
-*   🛡️ **[APT & Malware Casefile](https://github.com/truvineweb/SOC-Portfolio/tree/main/apt/malware-incident-casefile):** End-to-end simulation of a multi-stage attack in a VMware lab.
-*   ⚖️ **[Governance & Compliance Pack](https://github.com/truvineweb/SOC-Portfolio/tree/main/governance-compliance):** Mapping technical SOC work to NIST CSF 2.0, ISO 27001, and GDPR.
-*   🔍 **[Splunk Detection Lab](https://github.com/truvineweb/SOC-Portfolio/tree/main/splunk-detections):** Custom SPL queries for hunting persistence and C2 beaconing.
-*   🎣 **[Phishing Analysis](https://github.com/truvineweb/SOC-Portfolio/tree/main/phishing):** Deep-dives into email headers, malicious URLs, and sandbox analysis.
-*   🔍 **[ThreatHunt-Portfolio](https://github.com/truvineweb/ThreatHunt-Portfolio):** Threat Hunts projects and experience as a Cyber Security Analyst during my internship at LOGs N' PACIFIC.
+## Featured Work
+
+- [**Explore my SOC Portfolio**](https://github.com/truvineweb/SOC-Portfolio)  
+  A hands-on collection of SOC projects covering Microsoft Sentinel, Splunk detections, phishing analysis, investigation playbooks, malware case work, Wireshark analysis, and blue team tooling.
+
+- [**Explore my Threat Hunting Portfolio**](https://github.com/truvineweb/ThreatHunt-Portfolio)  
+  Structured hunting investigations built around realistic attacker behaviour, advanced hunting workflows, telemetry analysis, and clear reporting.
 
 ---
 
-### 📫 Let’s Connect
-I’m always up for talking shop about detection strategy or the latest threat trends.
+## Technical Focus
 
-*   **LinkedIn:** [:linkedin.com/truvine147](https://www.linkedin.com/in/truvine147/)
+- **SIEM / XDR**: Microsoft Sentinel, Splunk, Microsoft Defender XDR
+- **Detection & Analysis**: KQL, SPL, Sigma, IOC hunting, MITRE ATT&CK mapping
+- **Endpoint & Security Tooling**: Microsoft Defender for Endpoint, Sysmon
+- **Scripting**: Python, PowerShell, SQL
+- **Core Fundamentals**: Windows internals, TCP/IP, DNS, authentication, identity and endpoint logs
+
+---
+
+## What You’ll See Here
+
+This profile reflects how I think as an analyst:
+
+- methodical investigation
+- practical detection work
+- clear technical documentation
+- realistic blue team scenarios
+- continuous improvement through hands-on projects
+
+I care about getting the details right, building useful things, and documenting work in a way that another analyst or hiring manager can quickly understand.
+
+---
+
+## Current Focus
+
+Right now, I’m pushing deeper into:
+
+- detection engineering
+- advanced threat hunting
+- SOC investigation workflows
+- incident response practice
+- security automation with Python
+
+---
+
+## Let’s Connect
+
+I’m open to opportunities in **SOC Analysis**, **Threat Hunting**, **Detection Engineering**, and **Blue Team Operations**.
+
+- [**Connect with me on LinkedIn**](https://linkedin.com/in/truvine147)
