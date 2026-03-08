@@ -1,4 +1,5 @@
-<img width="1073" height="640" alt="Image" src="https://github.com/user-attachments/assets/d441f791-22f3-4ace-a0aa-11e152f4bdbb" />
+<img width="1073" height="129" alt="image" src="https://github.com/user-attachments/assets/10edb525-1c10-450d-87cc-d01550cd1eb3" />
+
 
 # Hi, I'm Divine 👋
 
