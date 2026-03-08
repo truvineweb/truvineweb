@@ -37,10 +37,6 @@ I'm a Blue Team-focused SOC analyst who enjoys turning noisy telemetry into clea
 
 ---
 
-![Divine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=truvineweb&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
-
 ## Let's Connect
 
 I'm open to opportunities in **SOC Analysis**, **Threat Hunting**, **Detection Engineering**, and **Blue Team Operations**.
